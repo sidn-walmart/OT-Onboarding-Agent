@@ -1,4 +1,4 @@
-# OT Onboarding Agent
+# ORBIT — OT Research, Boarding, Intelligence & Training
 
 A Wibey AI agent purpose-built for the Walmart IoT/ OT Security team. It acts as an always-available SME, research assistant, and onboarding guide — combining internal Walmart knowledge sources with authoritative external OT intelligence platforms.
 
